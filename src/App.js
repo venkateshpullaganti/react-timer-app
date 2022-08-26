@@ -67,7 +67,7 @@ function App() {
 
       <div className="text-input-label">
         <label htmlFor="standard-basic" className="input-label">
-          Enter Timer:{" "}
+          Enter Time In Minutes:{" "}
         </label>
         <TextField
           placeholder="Enter Time In Minutes"
